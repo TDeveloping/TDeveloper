@@ -1,8 +1,7 @@
 ## Teun Feddema, Beginnende Java Developer
 
-You can use the [editor on GitHub](https://github.com/TDeveloping/TDeveloper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wie ben ik?
+Ik ben Teun Feddema ben 14 jaar oud en vind coderen een leuke hobby. Ik ben daarom een uitdaging met mezelf aangegaan om Java development te gaan leren, Ik ben nu bezig met het eerste deel: **Spigot Development**, En ben hiermee mijn eerste project mee begonnen. Later meer hierover.
 
 ### Markdown
 

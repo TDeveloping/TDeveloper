@@ -3,34 +3,11 @@
 Wie ben ik?
 Ik ben Teun Feddema en vind coderen een leuke hobby. Ik ben daarom een uitdaging met mezelf aangegaan om Java development te gaan leren, Ik ben nu bezig met het eerste deel: **Spigot Development**, En ben hiermee mijn eerste project mee begonnen. Later meer hierover.
 
-### Markdown
+### Huidige projecten:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ik ben nu bezig met mijn eerste project: BetterServer, Dit ben ik samen met [Emcrypted](https://github.com/Emcrypted-Dev) begonnen. Ik ga nog niet zoveel over het project vertellen totdat de Early Beta uitgekomen is.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TDeveloping/TDeveloper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Je kan mij **alleen** contacteren via discord: CaptainTeun#3138.

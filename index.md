@@ -7,6 +7,9 @@ Ik ben Teun Feddema en vind coderen een leuke hobby. Ik ben daarom een uitdaging
 
 Ik ben nu bezig met mijn eerste project: BetterServer, Dit ben ik samen met [Emcrypted](https://github.com/Emcrypted-Dev) begonnen. Ik ga nog niet zoveel over het project vertellen totdat de Early Beta uitgekomen is.
 
+### Web DEV projecten:
+Van Brett heb ik de opdracht gekregen om een site te maken. Ik ga niet meer hier over vertellen. 
+
 
 ### Contact
 
